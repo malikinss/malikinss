@@ -2,11 +2,9 @@
 
 ## Hi there, my name is Sam Malikin 👋
 
-
 <div id="header" align="center">
-  <img src="https://www.canva.com/design/DAGcL7Th5WI/Fq3D5wBhagtI5PBrvzWcrA/watch?embed" width="100"/>
+  <img src="logo1.gif" width="100"/>
 </div>
-
 
 <!--
 **malikinss/malikinss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
