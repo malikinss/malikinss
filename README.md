@@ -12,4 +12,8 @@
   <a href="https://t.me/malikinsdev">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="https://t.me/malikinsdev" style="display: inline-block; overflow: hidden; border-radius: 12px;">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" 
+         alt="Telegram Badge" style="display: block;">
+  </a>
 </div>
