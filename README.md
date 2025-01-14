@@ -1,8 +1,10 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXI5eWlydnV4MWJqMHpuczhrN20zYzd6MmU1bndwbTB2amhycGxhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vqxviVfqGAa14SgeiC/giphy.gif" width="100"/>
+  <img src="https://www.canva.com/design/DAGcL7Th5WI/Fq3D5wBhagtI5PBrvzWcrA/watch" width="100"/>
 </div>
+
+
 <!--
 **malikinss/malikinss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
