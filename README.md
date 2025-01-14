@@ -1,4 +1,7 @@
-## Hi there 👋
+# WHO AM I?
+
+## Hi there, my name is Sam Malikin 👋
+
 
 <div id="header" align="center">
   <img src="https://www.canva.com/design/DAGcL7Th5WI/Fq3D5wBhagtI5PBrvzWcrA/watch?embed" width="100"/>
