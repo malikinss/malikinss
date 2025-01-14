@@ -3,7 +3,7 @@
 ## Hi there, my name is Sam Malikin 👋
 
 <div id="header" align="center">
-  <img src="logo1.gif" width="100"/>
+  <img src="logo1.gif" width="200"/>
 </div>
 
 <div id="badges">
