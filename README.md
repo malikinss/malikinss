@@ -10,7 +10,7 @@
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGcL7Th5WI&#x2F;Fq3D5wBhagtI5PBrvzWcrA&#x2F;watch?utm_content=DAGcL7Th5WI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Дизайн</a>
 
 <div id="header" align="center">
-  <img src="https://www.canva.com/design/DAGcL7Th5WI/Fq3D5wBhagtI5PBrvzWcrA/watch" width="100"/>
+  <img src="https://www.canva.com/design/DAGcL7Th5WI/Fq3D5wBhagtI5PBrvzWcrA/watch?embed" width="100"/>
 </div>
 
 
