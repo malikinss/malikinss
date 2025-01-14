@@ -17,7 +17,7 @@
   </a>
 </div>
 
-### :man_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me:
 
 I am a `BackEnd` oriented `FullStack Engineer`
 
@@ -28,3 +28,9 @@ I am a `BackEnd` oriented `FullStack Engineer`
 -   ⚡ In my free time I solve problems on PyGen and read tech articles.
 
 ---
+
+### :hammer_and_wrench: &nbsp;Skills:
+
+---
+
+### :bar_chart:  &nbsp;Stats:
