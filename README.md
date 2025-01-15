@@ -31,49 +31,16 @@ I am a `BackEnd` oriented `FullStack Engineer`
 
 ### :hammer_and_wrench: &nbsp;Skills:
 
-| Category:  |                                                     Logo:                                                      |
-| :--------: | :------------------------------------------------------------------------------------------------------------: |
-| Languages  |               ## [![Languages](https://skillicons.dev/icons?i=js,py,c)](https://skillicons.dev)                |
-| Frameworks | ## [![Frameworks](https://skillicons.dev/icons?i=nodejs,django,express,flask,fastapi)](https://skillicons.dev) |
-
--   Languages:
-
-## [![Languages](https://skillicons.dev/icons?i=js,py,c)](https://skillicons.dev)
-
--   Frameworks:
-
-## [![Frameworks](https://skillicons.dev/icons?i=nodejs,django,express,flask,fastapi)](https://skillicons.dev)
-
--   Package managers:
-
-## [![Package managers](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
-
--   Databases:
-
-## [![Databases](https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,sequelize)](https://skillicons.dev)
-
--   Version control:
-
-## [![Version control](https://skillicons.dev/icons?i=git,gitlab,github,bitbucket)](https://skillicons.dev)
-
--   CI/CD:
-
-## [![CI/CD](https://skillicons.dev/icons?i=jenkins,docker)](https://skillicons.dev)
-
--   Technologies:
-
-## [![Technologies](https://skillicons.dev/icons?i=npm,html,css,bootstrap,unity)](https://skillicons.dev)
-
--   Editors:
-
-## [![Editors](https://skillicons.dev/icons?i=pycharm,sublime,vim,vscode)](https://skillicons.dev)
-
--   Graphic:
-
-## [![Graphic](https://skillicons.dev/icons?i=threejs,blender,autocad)](https://skillicons.dev)
-
--   OS:
-
-## [![OS](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)
+|    Category:    |                                                     Logo:                                                      |
+| :-------------: | :------------------------------------------------------------------------------------------------------------: |
+|    Language     |                 [![Languages](https://skillicons.dev/icons?i=js,py,c)](https://skillicons.dev)                 |
+|    Framework    |  [![Frameworks](https://skillicons.dev/icons?i=nodejs,django,express,flask,fastapi)](https://skillicons.dev)   |
+|    Database     | [![Databases](https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,sequelize)](https://skillicons.dev) |
+| Version control |    [![Version control](https://skillicons.dev/icons?i=git,gitlab,github,bitbucket)](https://skillicons.dev)    |
+|      CI/CD      |               [![CI/CD](https://skillicons.dev/icons?i=jenkins,docker)](https://skillicons.dev)                |
+|  Technologies   |        [![Technologies](https://skillicons.dev/icons?i=npm,html,css,bootstrap)](https://skillicons.dev)        |
+|       IDE       |     [![Editors](https://skillicons.dev/icons?i=pycharm,sublime,vim,vscode,unity)](https://skillicons.dev)      |
+|     Graphic     |          [![Graphic](https://skillicons.dev/icons?i=threejs,blender,autocad)](https://skillicons.dev)          |
+|       OS        |                 [![OS](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)                 |
 
 ### :bar_chart:  &nbsp;Stats:
