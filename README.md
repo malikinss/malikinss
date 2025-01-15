@@ -31,6 +31,8 @@ I am a `BackEnd` oriented `FullStack Engineer`
 
 ### :hammer_and_wrench: &nbsp;Skills:
 
+| Languages: | ## [![Languages](https://skillicons.dev/icons?i=js,py,c)](https://skillicons.dev) |
+
 -   Languages:
 
 ## [![Languages](https://skillicons.dev/icons?i=js,py,c)](https://skillicons.dev)
