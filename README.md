@@ -37,33 +37,33 @@ I am a `BackEnd` oriented `FullStack Engineer`
       <th>Category</th>
       <th>Logo</th>
     </tr>
-    <tr>
-      <td align="center">Language</td>
-      <td align="center">
+    <tr align="center">
+      <td>Language</td>
+      <td>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=py,js,ts,c" alt="Languages">
         </a>
       </td>
     </tr>
-    <tr>
-      <td align="center">Framework</td>
-      <td align="center">
+    <tr align="center">
+      <td>Framework</td>
+      <td>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=nodejs,django,express,flask,fastapi" alt="Frameworks">
         </a>
       </td>
     </tr>
-    <tr>
-      <td align="center">Database</td>
-      <td align="center">
+    <tr align="center">
+      <td>Database</td>
+      <td>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,sequelize" alt="Databases">
         </a>
       </td>
     </tr>
-    <tr>
-      <td align="center">Version control</td>
-      <td align="center">
+    <tr align="center">
+      <td>Version control</td>
+      <td>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=git,gitlab,github,bitbucket" alt="Version control">
         </a>
@@ -77,7 +77,7 @@ I am a `BackEnd` oriented `FullStack Engineer`
         </a>
       </td>
     </tr>
-    <tr>
+    <tr align="center">
       <td>Technologies</td>
       <td>
         <a href="https://skillicons.dev">
@@ -85,7 +85,7 @@ I am a `BackEnd` oriented `FullStack Engineer`
         </a>
       </td>
     </tr>
-    <tr>
+    <tr align="center">
       <td>IDE</td>
       <td>
         <a href="https://skillicons.dev">
@@ -93,7 +93,7 @@ I am a `BackEnd` oriented `FullStack Engineer`
         </a>
       </td>
     </tr>
-    <tr>
+    <tr align="center">
       <td>Graphic</td>
       <td>
         <a href="https://skillicons.dev">
@@ -101,7 +101,7 @@ I am a `BackEnd` oriented `FullStack Engineer`
         </a>
       </td>
     </tr>
-    <tr>
+    <tr align="center">
       <td>OS</td>
       <td>
         <a href="https://skillicons.dev">
