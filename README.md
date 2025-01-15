@@ -38,7 +38,7 @@ I am a `BackEnd` oriented `FullStack Engineer`
       <th>Logo</th>
     </tr>
     <tr>
-      <td>Language</td>
+      <td align="center">Language</td>
       <td>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=js,py,c" alt="Languages">
