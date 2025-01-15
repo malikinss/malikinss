@@ -41,7 +41,7 @@ I am a `BackEnd` oriented `FullStack Engineer`
 
 -   Package managers:
 
-## [![Package managers](https://skillicons.dev/icons?i=pip,npm)](https://skillicons.dev)
+## PIP, [![Package managers](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
 
 -   Databases:
 
