@@ -117,10 +117,11 @@ I am a `BackEnd` oriented `FullStack Engineer`
 ### :bar_chart:  &nbsp;Stats:
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=malikinss&theme=material-palenight" alt="GitHub Streak">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malikinss&theme=material_palenight" alt="Profile Details">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malikinss&theme=material_palenight" alt="Most Commit Language">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malikinss&theme=material_palenight" alt="Repos Per Language">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=malikinss&theme=material_palenight" alt="Stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=malikinss&theme=material_palenight" alt="Productive Time">
 </div>
+
+<img src="https://streak-stats.demolab.com?user=malikinss&theme=material-palenight" alt="GitHub Streak">
