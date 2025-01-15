@@ -35,7 +35,7 @@ I am a `BackEnd` oriented `FullStack Engineer`
   <table>
     <tr>
       <th>Category</th>
-      <th>Logo</th>
+      <th>Stack</th>
     </tr>
     <tr align="center">
       <td>Language</td>
