@@ -58,7 +58,7 @@ I am a `BackEnd` oriented `FullStack Engineer`
 -   Technologies:
     <img src="pandas.svg" width="50"/>
 
-## [![Technologies]<img src="pandas.svg" width="50"/>(https://skillicons.dev/icons?i=npm,html,css,bootstrap,blender,autocad,discord,pycharm,sublime,unity,ubuntu,vim,vscode,windows)](https://skillicons.dev)
+## [<img src="pandas.svg" width="50"/>![Technologies](https://skillicons.dev/icons?i=npm,html,css,bootstrap,blender,autocad,discord,pycharm,sublime,unity,ubuntu,vim,vscode,windows)](https://skillicons.dev)
 
 -   Editors:
 
