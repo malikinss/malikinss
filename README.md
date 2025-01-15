@@ -56,7 +56,7 @@ I am a `BackEnd` oriented `FullStack Engineer`
 ## [![CI/CD](https://skillicons.dev/icons?i=jenkins,docker)](https://skillicons.dev)
 
 -   Technologies:
-    <img src="pandas.svg" width="200"/>
+    <img src="pandas.svg" width="50"/>
 
 ## [![Technologies](https://skillicons.dev/icons?i=npm,html,css,bootstrap,blender,autocad,discord,pycharm,sublime,unity,ubuntu,vim,vscode,windows)](https://skillicons.dev)
 
