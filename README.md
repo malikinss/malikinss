@@ -5,6 +5,9 @@
 <div id="header" align="center">
   <img src="logo1.gif" width="200"/>
 </div>
+<div id="header" align="center">
+  <img src="logo2.png" width="200"/>
+</div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kelevv/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -124,4 +127,4 @@ I am a `BackEnd` oriented `FullStack Engineer`
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=malikinss&theme=material_palenight" alt="Productive Time">
 </div>
 
-<img src="https://streak-stats.demolab.com?user=malikinss&theme=material-palenight" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=malikinss&theme=material-palenight" alt="GitHub Streak" align="center">
