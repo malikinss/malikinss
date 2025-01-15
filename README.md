@@ -20,7 +20,9 @@
   </a>
 </div>
 
-### :man_technologist: &nbsp;About Me:
+---
+
+## :man_technologist: &nbsp;About Me:
 
 I am a `BackEnd` oriented `FullStack Engineer`
 
@@ -32,7 +34,7 @@ I am a `BackEnd` oriented `FullStack Engineer`
 
 ---
 
-### :hammer_and_wrench: &nbsp;Skills:
+## :hammer_and_wrench: &nbsp;Skills:
 
 <div align="center">
   <table>
@@ -117,7 +119,7 @@ I am a `BackEnd` oriented `FullStack Engineer`
 
 ---
 
-### :bar_chart:  &nbsp;Stats:
+## :bar_chart:  &nbsp;Stats:
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malikinss&theme=material_palenight" alt="Profile Details">
