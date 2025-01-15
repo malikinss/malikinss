@@ -31,83 +31,85 @@ I am a `BackEnd` oriented `FullStack Engineer`
 
 ### :hammer_and_wrench: &nbsp;Skills:
 
-<table style="margin: 0 auto; border-collapse: collapse; width: 80%;">
-  <tr>
-    <th style="border: 1px solid #ddd; text-align: center; padding: 10px; background-color: #f4f4f4;">Category</th>
-    <th style="border: 1px solid #ddd; text-align: center; padding: 10px; background-color: #f4f4f4;">Logo</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; text-align: center; padding: 10px;">Language</td>
-    <td style="border: 1px solid #ddd; text-align: center; padding: 10px;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,py,c" alt="Languages" style="display: block; margin: 0 auto;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; text-align: center; padding: 10px;">Framework</td>
-    <td style="border: 1px solid #ddd; text-align: center; padding: 10px;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,django,express,flask,fastapi" alt="Frameworks" style="display: block; margin: 0 auto;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; text-align: center; padding: 10px;">Database</td>
-    <td style="border: 1px solid #ddd; text-align: center; padding: 10px;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,sequelize" alt="Databases" style="display: block; margin: 0 auto;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; text-align: center; padding: 10px;">Version control</td>
-    <td style="border: 1px solid #ddd; text-align: center; padding: 10px;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,gitlab,github,bitbucket" alt="Version control" style="display: block; margin: 0 auto;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; text-align: center; padding: 10px;">CI/CD</td>
-    <td style="border: 1px solid #ddd; text-align: center; padding: 10px;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=jenkins,docker" alt="CI/CD" style="display: block; margin: 0 auto;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; text-align: center; padding: 10px;">Technologies</td>
-    <td style="border: 1px solid #ddd; text-align: center; padding: 10px;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=npm,html,css,bootstrap" alt="Technologies" style="display: block; margin: 0 auto;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; text-align: center; padding: 10px;">IDE</td>
-    <td style="border: 1px solid #ddd; text-align: center; padding: 10px;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=pycharm,sublime,vim,vscode,unity" alt="Editors" style="display: block; margin: 0 auto;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; text-align: center; padding: 10px;">Graphic</td>
-    <td style="border: 1px solid #ddd; text-align: center; padding: 10px;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=threejs,blender,autocad" alt="Graphic" style="display: block; margin: 0 auto;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; text-align: center; padding: 10px;">OS</td>
-    <td style="border: 1px solid #ddd; text-align: center; padding: 10px;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ubuntu,windows" alt="Operating Systems" style="display: block; margin: 0 auto;">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <th>Category</th>
+      <th>Logo</th>
+    </tr>
+    <tr>
+      <td>Language</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js,py,c" alt="Languages">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Framework</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,django,express,flask,fastapi" alt="Frameworks">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Database</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,sequelize" alt="Databases">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Version control</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,gitlab,github,bitbucket" alt="Version control">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>CI/CD</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=jenkins,docker" alt="CI/CD">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Technologies</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=npm,html,css,bootstrap" alt="Technologies">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>IDE</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=pycharm,sublime,vim,vscode,unity" alt="Editors">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Graphic</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=threejs,blender,autocad" alt="Graphic">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>OS</td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=ubuntu,windows" alt="Operating Systems">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### :bar_chart:  &nbsp;Stats:
