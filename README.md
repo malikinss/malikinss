@@ -114,10 +114,10 @@ I am a `BackEnd` oriented `FullStack Engineer`
 
 ### :bar_chart:  &nbsp;Stats:
 
-[![](https://github-readme-stats.vercel.app/api?username=malikinss)]
-
+<div align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malikinss&theme=material_palenight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malikinss&theme=material_palenight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malikinss&theme=material_palenight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=malikinss&theme=material_palenight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=malikinss&theme=material_palenight)
+</div>
