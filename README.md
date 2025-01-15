@@ -116,8 +116,6 @@ I am a `BackEnd` oriented `FullStack Engineer`
 
 ### :bar_chart:  &nbsp;Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=malikinss&theme=material-palenight)](https://git.io/streak-stats)
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=malikinss&theme=material-palenight" alt="GitHub Streak">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malikinss&theme=material_palenight" alt="Profile Details">
