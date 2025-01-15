@@ -31,6 +31,7 @@ I am a `BackEnd` oriented `FullStack Engineer`
 
 ### :hammer_and_wrench: &nbsp;Skills:
 
+<div align="center">
 |    Category:    |                                                     Logo:                                                      |
 | :-------------: | :------------------------------------------------------------------------------------------------------------: |
 |    Language     |                 [![Languages](https://skillicons.dev/icons?i=js,py,c)](https://skillicons.dev)                 |
@@ -42,5 +43,6 @@ I am a `BackEnd` oriented `FullStack Engineer`
 |       IDE       |     [![Editors](https://skillicons.dev/icons?i=pycharm,sublime,vim,vscode,unity)](https://skillicons.dev)      |
 |     Graphic     |          [![Graphic](https://skillicons.dev/icons?i=threejs,blender,autocad)](https://skillicons.dev)          |
 |       OS        |                 [![OS](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)                 |
+</div>
 
 ### :bar_chart:  &nbsp;Stats:
