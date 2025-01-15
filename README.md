@@ -31,6 +31,7 @@ I am a `BackEnd` oriented `FullStack Engineer`
 
 ### :hammer_and_wrench: &nbsp;Skills:
 
+<div align='center'>
 <table>
         <tr>
             <th>Category</th>
@@ -73,6 +74,7 @@ I am a `BackEnd` oriented `FullStack Engineer`
             <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ubuntu,windows" alt="Operating Systems"></a></td>
         </tr>
     </table>
+    </div>
 
 |    Category:    |                                                     Logo:                                                      |
 | :-------------: | :------------------------------------------------------------------------------------------------------------: |
