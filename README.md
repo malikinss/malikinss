@@ -113,3 +113,5 @@ I am a `BackEnd` oriented `FullStack Engineer`
 </div>
 
 ### :bar_chart:  &nbsp;Stats:
+
+[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=malikinss)]
