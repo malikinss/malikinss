@@ -31,6 +31,18 @@ I am a `BackEnd` oriented `FullStack Engineer`
 
 ### :hammer_and_wrench: &nbsp;Skills:
 
-## [![My Skills](https://skillicons.dev/icons?i=js,python,html,css,c,docker,bitbucket,bootstrap,blender,autocad,discord)]
+## [![Languages](https://skillicons.dev/icons?i=js,py,c)](https://skillicons.dev)
+
+## [![Frameworks](https://skillicons.dev/icons?i=nodejs,django,express,flask,git,gitlab,postman,jenkins,,mongodb,postgres,redis,sqlite,sequelize,threejs,npm,html,css,c,docker,bitbucket,bootstrap,blender,autocad,discord,pycharm,sublime,unity,ubuntu,vim,vscode,windows)](https://skillicons.dev)
+
+## [![Databases](https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,sequelize)](https://skillicons.dev)
+
+## [![DVC's](https://skillicons.dev/icons?i=git,gitlab,github,bitbucket)](https://skillicons.dev)
+
+## [![Technologies](https://skillicons.dev/icons?i=js,py,nodejs,django,express,flask,git,gitlab,postman,jenkins,,mongodb,postgres,redis,sqlite,sequelize,threejs,npm,html,css,c,docker,bitbucket,bootstrap,blender,autocad,discord,pycharm,sublime,unity,ubuntu,vim,vscode,windows)](https://skillicons.dev)
+
+## [![Editors](https://skillicons.dev/icons?i=js,py,nodejs,django,express,flask,git,gitlab,postman,jenkins,,mongodb,postgres,redis,sqlite,sequelize,threejs,npm,html,css,c,docker,bitbucket,bootstrap,blender,autocad,discord,pycharm,sublime,unity,ubuntu,vim,vscode,windows)](https://skillicons.dev)
+
+## [![Graphic](https://skillicons.dev/icons?i=js,py,nodejs,django,express,flask,git,gitlab,postman,jenkins,,mongodb,postgres,redis,sqlite,sequelize,threejs,npm,html,css,c,docker,bitbucket,bootstrap,blender,autocad,discord,pycharm,sublime,unity,ubuntu,vim,vscode,windows)](https://skillicons.dev)
 
 ### :bar_chart:  &nbsp;Stats:
