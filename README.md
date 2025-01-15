@@ -41,7 +41,7 @@ I am a `BackEnd` oriented `FullStack Engineer`
 
 -   Package managers:
 
-## <img src="pip.png" width="20"/> [![Package managers](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+## <img src="pip.png" width="100"/> [![Package managers](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
 
 -   Databases:
 
