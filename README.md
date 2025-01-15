@@ -45,16 +45,26 @@ I am a `BackEnd` oriented `FullStack Engineer`
 
 -   Databases:
 
-## [![Databases](https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,sequelize)](https://skillicons.dev)
+## [![Databases](https://skillicons.dev/icons?i=sql,mongodb,postgres,redis,sqlite,sequelize)](https://skillicons.dev)
 
 -   Version control:
 
 ## [![Version control](https://skillicons.dev/icons?i=git,gitlab,github,bitbucket)](https://skillicons.dev)
 
+-   Technologies:
+
 ## [![Technologies](https://skillicons.dev/icons?i=js,py,nodejs,django,express,flask,git,gitlab,postman,jenkins,,mongodb,postgres,redis,sqlite,sequelize,threejs,npm,html,css,c,docker,bitbucket,bootstrap,blender,autocad,discord,pycharm,sublime,unity,ubuntu,vim,vscode,windows)](https://skillicons.dev)
+
+-   Editors:
 
 ## [![Editors](https://skillicons.dev/icons?i=js,py,nodejs,django,express,flask,git,gitlab,postman,jenkins,,mongodb,postgres,redis,sqlite,sequelize,threejs,npm,html,css,c,docker,bitbucket,bootstrap,blender,autocad,discord,pycharm,sublime,unity,ubuntu,vim,vscode,windows)](https://skillicons.dev)
 
-## [![Graphic](https://skillicons.dev/icons?i=js,py,nodejs,django,express,flask,git,gitlab,postman,jenkins,,mongodb,postgres,redis,sqlite,sequelize,threejs,npm,html,css,c,docker,bitbucket,bootstrap,blender,autocad,discord,pycharm,sublime,unity,ubuntu,vim,vscode,windows)](https://skillicons.dev)
+-   Graphic:
+
+## [![Graphic](https://skillicons.dev/icons?i=threejs,blender,autocad)](https://skillicons.dev)
+
+-   OS:
+
+## [![OS](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)
 
 ### :bar_chart:  &nbsp;Stats:
