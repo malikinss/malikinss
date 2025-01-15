@@ -33,21 +33,21 @@ I am a `BackEnd` oriented `FullStack Engineer`
 
 <style>
   table {
-    margin: 0 auto; /* Центрирование таблицы */
-    border-collapse: collapse; /* Убираем промежутки между ячейками */
-    width: 80%; /* Ширина таблицы */
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 80%;
   }
   th, td {
-    border: 1px solid #ddd; /* Граница для ячеек */
-    text-align: center; /* Центрирование содержимого */
-    padding: 10px; /* Отступ внутри ячеек */
+    border: 1px solid #ddd;
+    text-align: center;
+    padding: 10px;
   }
   th {
-    background-color: #f4f4f4; /* Цвет фона для заголовков */
+    background-color: #f4f4f4;
   }
   a img {
-    display: block; /* Убираем нижние отступы у изображений */
-    margin: 0 auto; /* Центрирование изображений */
+    display: block;
+    margin: 0 auto;
   }
 </style>
 <table>
@@ -128,17 +128,5 @@ I am a `BackEnd` oriented `FullStack Engineer`
     </td>
   </tr>
 </table>
-
-|    Category:    |                                                     Logo:                                                      |
-| :-------------: | :------------------------------------------------------------------------------------------------------------: |
-|    Language     |                 [![Languages](https://skillicons.dev/icons?i=js,py,c)](https://skillicons.dev)                 |
-|    Framework    |  [![Frameworks](https://skillicons.dev/icons?i=nodejs,django,express,flask,fastapi)](https://skillicons.dev)   |
-|    Database     | [![Databases](https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,sequelize)](https://skillicons.dev) |
-| Version control |    [![Version control](https://skillicons.dev/icons?i=git,gitlab,github,bitbucket)](https://skillicons.dev)    |
-|      CI/CD      |               [![CI/CD](https://skillicons.dev/icons?i=jenkins,docker)](https://skillicons.dev)                |
-|  Technologies   |        [![Technologies](https://skillicons.dev/icons?i=npm,html,css,bootstrap)](https://skillicons.dev)        |
-|       IDE       |     [![Editors](https://skillicons.dev/icons?i=pycharm,sublime,vim,vscode,unity)](https://skillicons.dev)      |
-|     Graphic     |          [![Graphic](https://skillicons.dev/icons?i=threejs,blender,autocad)](https://skillicons.dev)          |
-|       OS        |                 [![OS](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)                 |
 
 ### :bar_chart:  &nbsp;Stats:
