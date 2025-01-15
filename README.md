@@ -41,19 +41,24 @@ I am a `BackEnd` oriented `FullStack Engineer`
 
 -   Package managers:
 
-## <img src="pip.png" width="100"/> [![Package managers](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+## [![Package managers](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
 
 -   Databases:
 
-## [![Databases](https://skillicons.dev/icons?i=sql,mongodb,postgres,redis,sqlite,sequelize)](https://skillicons.dev)
+## [![Databases](https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,sequelize)](https://skillicons.dev)
 
 -   Version control:
 
 ## [![Version control](https://skillicons.dev/icons?i=git,gitlab,github,bitbucket)](https://skillicons.dev)
 
--   Technologies:
+-   CI/CD:
 
-## [![Technologies](https://skillicons.dev/icons?i=js,py,nodejs,django,express,flask,git,gitlab,postman,jenkins,,mongodb,postgres,redis,sqlite,sequelize,threejs,npm,html,css,c,docker,bitbucket,bootstrap,blender,autocad,discord,pycharm,sublime,unity,ubuntu,vim,vscode,windows)](https://skillicons.dev)
+## [![CI/CD](https://skillicons.dev/icons?i=jenkins,docker)](https://skillicons.dev)
+
+-   Technologies:
+    <img src="pandas.svg" width="200"/>
+
+## [![Technologies](https://skillicons.dev/icons?i=npm,html,css,bootstrap,blender,autocad,discord,pycharm,sublime,unity,ubuntu,vim,vscode,windows)](https://skillicons.dev)
 
 -   Editors:
 
