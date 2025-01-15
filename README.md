@@ -57,11 +57,11 @@ I am a `BackEnd` oriented `FullStack Engineer`
 
 -   Technologies:
 
-## [![Technologies](https://skillicons.dev/icons?i=npm,html,css,bootstrap,blender,autocad,discord,pycharm,sublime,unity,ubuntu,vim,vscode,windows)](https://skillicons.dev)
+## [![Technologies](https://skillicons.dev/icons?i=npm,html,css,bootstrap,unity)](https://skillicons.dev)
 
 -   Editors:
 
-## [![Editors](https://skillicons.dev/icons?i=js,py,nodejs,django,express,flask,git,gitlab,postman,jenkins,,mongodb,postgres,redis,sqlite,sequelize,threejs,npm,html,css,c,docker,bitbucket,bootstrap,blender,autocad,discord,pycharm,sublime,unity,ubuntu,vim,vscode,windows)](https://skillicons.dev)
+## [![Editors](https://skillicons.dev/icons?i=pycharm,sublime,vim,vscode)](https://skillicons.dev)
 
 -   Graphic:
 
