@@ -116,8 +116,10 @@ I am a `BackEnd` oriented `FullStack Engineer`
 
 ### :bar_chart:  &nbsp;Stats:
 
+[![](https://streak-stats.demolab.com?user=malikinss&theme=material-palenight)]
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=malikinss&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=malikinss&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malikinss&theme=material_palenight" alt="Profile Details">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malikinss&theme=material_palenight" alt="Most Commit Language">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malikinss&theme=material_palenight" alt="Repos Per Language">
