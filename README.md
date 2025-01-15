@@ -112,6 +112,8 @@ I am a `BackEnd` oriented `FullStack Engineer`
   </table>
 </div>
 
+---
+
 ### :bar_chart:  &nbsp;Stats:
 
 <div align="center">
@@ -121,3 +123,4 @@ I am a `BackEnd` oriented `FullStack Engineer`
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=malikinss&theme=material_palenight" alt="Stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=malikinss&theme=material_palenight" alt="Productive Time">
 </div>
+---
