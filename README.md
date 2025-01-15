@@ -6,7 +6,7 @@
   <img src="logo1.gif" width="200"/>
 </div>
 <div id="header" align="center">
-  <img src="logo2.png" width="200"/>
+  <img src="logo2.png">
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kelevv/">
