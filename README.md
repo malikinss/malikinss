@@ -124,3 +124,4 @@ I am a `BackEnd` oriented `FullStack Engineer`
 </div>
 
 <img src="https://streak-stats.demolab.com?user=malikinss&theme=material-palenight" alt="GitHub Streak" align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=malikinss" alt="GitHub Streak" /></a>
