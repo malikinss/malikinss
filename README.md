@@ -123,5 +123,5 @@ I am a `BackEnd` oriented `FullStack Engineer`
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=malikinss&theme=material_palenight" alt="Productive Time">
 </div>
 
-<img src="https://streak-stats.demolab.com?user=malikinss&theme=material-palenight" alt="GitHub Streak" align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=malikinss" alt="GitHub Streak" /></a>
+<!-- <img src="https://streak-stats.demolab.com?user=malikinss&theme=material-palenight" alt="GitHub Streak" align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=malikinss" alt="GitHub Streak" /></a> -->
